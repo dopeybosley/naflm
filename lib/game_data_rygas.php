@@ -262,7 +262,7 @@ $DEA = array (
                  'doub'        => array ('S', 'P'),
                  'qty'            => 2,
                 'cost'            => 90000,
-                'icon'            => 'delineman1',
+                'icon'            => 'deassassin1',
                 'pos_id'        => 32,
             ),
             'Blitzer'    => array (
