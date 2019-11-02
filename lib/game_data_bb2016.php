@@ -845,6 +845,19 @@ $DEA = array (
                 'cost'            => 140000,
                 'icon'            => 'kroxigor1',
                 'pos_id'        => 112,
+	    ),
+            'Chameleon Skink'    => array (
+                 'ma'            => 7,
+                 'st'            => 2,
+                 'ag'            => 3,
+                 'av'            => 7,
+                 'def'        => array (23, 8, 10, 108),
+                 'norm'        => array ('A'),
+                 'doub'        => array ('G', 'S', 'P'),
+                 'qty'            => 2,
+                'cost'            => 70000,
+                'icon'            => 'lmskink1',
+                'pos_id'        => 113,
             )
         )
     ),
@@ -2514,7 +2527,7 @@ $stars = array(
         'icon'  => 'star',
         'races' => array(T_RACE_CHAOS, T_RACE_NORSE),
     ),
-	// Added in BB2016 Spike! #2
+    // Added in BB2016 Spike! #2
     'Asperon Thorn' => array (
         'id'    => -77,
         'ma'    => 6,
@@ -2570,7 +2583,7 @@ $stars = array(
         'icon'  => 'star',
         'races' => array(T_RACE_DARK_ELF),
 	),
-	// Added in BB2016 Spike! #3
+    // Added in BB2016 Spike! #3
     'Bulla Shardhorn' => array (
         'id'    => -82,
         'ma'    => 6,
@@ -2593,7 +2606,7 @@ $stars = array(
         'icon'  => 'star',
         'races' => array(T_RACE_NURGLE),
 	),
-	// Added in BB2016 Spike! #4
+    // Added in BB2016 Spike! #4
     'G\'Ral Blodschuker' => array (
         'id'    => -84,
         'ma'    => 7,
@@ -2671,7 +2684,7 @@ $stars = array(
         'icon'  => 'star',
         'races' => array(T_RACE_NECROMANTIC, T_RACE_UNDEAD, T_RACE_VAMPIRE),
 	),
-	// Added in BB2016 Spike! #5 PLACEHOLDER
+    // Added in BB2016 Spike! #5
     'Neddley Verruca' => array (
         'id'    => -91,
         'ma'    => 5,
@@ -2727,8 +2740,8 @@ $stars = array(
         'icon'  => 'star',
         'races' => array(T_RACE_HALFLING),
 	),
-	// Added in BB2016 Spike! #6
-	'Gloriel Summerbloom' => array (
+    // Added in BB2016 Spike! #6
+    'Gloriel Summerbloom' => array (
         'id'    => -96,
         'ma'    => 7,
         'st'    => 2,
@@ -2739,7 +2752,7 @@ $stars = array(
         'icon'  => 'star',
         'races' => array(T_RACE_WOOD_ELF),
 	),
-	'Swiftvine Glimmershard' => array (
+    'Swiftvine Glimmershard' => array (
         'id'    => -97,
         'ma'    => 7,
         'st'    => 2,
@@ -2750,7 +2763,7 @@ $stars = array(
         'icon'  => 'star',
         'races' => array(T_RACE_WOOD_ELF),
 	),
-	'Maple Highgrove' => array (
+    'Maple Highgrove' => array (
         'id'    => -98,
         'ma'    => 3,
         'st'    => 5,
@@ -2761,7 +2774,7 @@ $stars = array(
         'icon'  => 'star',
         'races' => array(T_RACE_WOOD_ELF),
 	),
-	'Zolcath the Zoat' => array (
+    'Zolcath the Zoat' => array (
         'id'    => -99,
         'ma'    => 5,
         'st'    => 5,
@@ -2770,9 +2783,9 @@ $stars = array(
         'def'   => array (99, 72, 53, 54, 76, 103, 29),
         'cost'  => 280000,
         'icon'  => 'star',
-        'races' => array(T_RACE_Amazon, T_RACE_LIZARDMAN, T_RACE_WOOD_ELF),
+        'races' => array(T_RACE_AMAZON, T_RACE_LIZARDMAN, T_RACE_WOOD_ELF),
 	),
-	'Curnoth Darkwold' => array (
+    'Curnoth Darkwold' => array (
         'id'    => -100,
         'ma'    => 7,
         'st'    => 3,
@@ -2783,15 +2796,61 @@ $stars = array(
         'icon'  => 'star',
         'races' => array(T_RACE_WOOD_ELF),
 	),
+    // Added in BB2016 Spike! #7
+    'Anqi Panqi' => array (
+        'id'    => -101,
+        'ma'    => 7,
+        'st'    => 4,
+        'ag'    => 1,
+        'av'    => 9,
+        'def'   => array (99, 1, 51, 57),
+        'cost'  => 210000,
+        'icon'  => 'star',
+        'races' => array(T_RACE_LIZARDMAN),
+	),
+    'Drull (+Dribl)' => array (
+        'id'    => -102,
+        'ma'    => 8,
+        'st'    => 2,
+        'ag'    => 3,
+        'av'    => 7,
+        'def'   => array (99, 23, 26, 106, 108),
+        'cost'  => 190000,
+        'icon'  => 'star',
+        'races' => array(T_RACE_LIZARDMAN),
+	),
+    'Dribl (included with Drull)' => array (
+        'id'    => -103,
+        'ma'    => 8,
+        'st'    => 2,
+        'ag'    => 3,
+        'av'    => 7,
+        'def'   => array (99, 3, 23, 26, 27, 108),
+        'cost'  => 0,
+        'icon'  => 'star',
+        'races' => array(T_RACE_LIZARDMAN),
+	),
+    'Glotl Stop' => array (
+        'id'    => -104,
+        'ma'    => 6,
+        'st'    => 6,
+        'ag'    => 1,
+        'av'    => 9,
+        'def'   => array (99, 5, 54, 56, 76, 59, 112),
+        'cost'  => 360000,
+        'icon'  => 'star',
+        'races' => array(T_RACE_LIZARDMAN, T_RACE_AMAZON),
+	),
 );
 /*  Paired Stars  ***************************************************************************************** */
 $starpairs = array (
     // Parent => Child
     -6  => -7,
-    -67 => -68
+    -67 => -68,
+    -102 => -103
 );
 /*  SPP  ************************************************************************************************** */
-$sparray = array (    
+$sparray = array (
     'Rookie'    => array (
         'SPP'    => 0,
         'SPR'    => 0    
@@ -3098,6 +3157,13 @@ $inducements = array (
         'max'  => 3,
         'reduced_cost' => 40000,
         'reduced_cost_races' => array(T_RACE_HALFLING, T_RACE_OGRE),
+    ),
+    // Added in BB2016 Spike! #7
+    'Slann Mage-Priest' => array (
+        'cost' => 0,
+        'max'  => 1,
+        'reduced_cost' => 150000,
+        'reduced_cost_races' => array(T_RACE_LIZARDMAN, T_RACE_AMAZON),
     ),
 );
 /* ******************************************************************************************************** **

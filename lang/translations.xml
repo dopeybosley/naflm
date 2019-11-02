@@ -568,6 +568,7 @@ For example, english is in <en-GB>, french in <fr-FR>, .......
     <skink>Skink</skink>
     <saurus>Saurus</saurus>
     <kroxigor>Kroxigor</kroxigor>
+    <chameleonskink>Chameleon Skink</chameleonskink>
     <!-- Necromantic -->
     <zombie>Zombie</zombie>
     <ghoul>Ghoul</ghoul>
@@ -823,6 +824,11 @@ For example, english is in <en-GB>, french in <fr-FR>, .......
     <maplehighgrove>Maple Highgrove</maplehighgrove>
     <zolcaththezoat>Zolcath the Zoat</zolcaththezoat>
     <curnothdarkwold>Curnoth Darkwold</curnothdarkwold>
+    <!-- Added BB2016 Spike! #7 -->
+    <anqipanqi>Anqi Panqi</anqipanqi>
+    <drulldribl>Drull (&amp; Dribl)</drulldribl>
+    <driblincludedwithdrull>Dribl (included with Drull)</driblincludedwithdrull>
+    <glotlstop>Glotl Stop</glotlstop>
 </starplayer>
 
 <daysofweek>
