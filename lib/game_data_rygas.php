@@ -2374,7 +2374,7 @@ $stars = array(
         'def'   => array (99, 20, 73),
         'cost'  => 110000,
         'icon'  => 'star',
-        'races' => array(19),
+        'races' => array(19)
     ),
     'Frank N Stein' => array (
         'id'    => -63,
@@ -2385,7 +2385,7 @@ $stars = array(
         'def'   => array (99, 50, 54, 103, 57, 59),
         'cost'  => 210000,
         'icon'  => 'star',
-        'races' => array(9, 13, 17),
+        'races' => array(9, 13, 17)
     ),
     'Bilerot Vomitflesh' => array (
         'id'    => -64,
@@ -2396,7 +2396,7 @@ $stars = array(
         'def'   => array (99, 3, 72, 74),
         'cost'  => 180000,
         'icon'  => 'star',
-        'races' => array(15, 1),
+        'races' => array(15, 1)
     ),
     // Added in BB2016 DZ1
     'Guffle Pusmaw' => array (  // Updated in BB2016 Spike! #1
@@ -2408,7 +2408,7 @@ $stars = array(
         'def'   => array (99, 74, 101, 114),
         'cost'  => 210000,
         'icon'  => 'star',
-        'races' => array(T_RACE_CHAOS, T_RACE_NURGLE, T_RACE_CHAOS_PACT),
+        'races' => array(T_RACE_CHAOS, T_RACE_NURGLE, T_RACE_CHAOS_PACT)
     ),
     // Added in BB2016 DZ2
     'Glart Smashrip Sr' => array (
@@ -2420,7 +2420,7 @@ $stars = array(
         'def'   => array (99, 1, 71, 51, 53, 57),
         'cost'  => 190000,
         'icon'  => 'star',
-        'races' => array(T_RACE_SKAVEN, T_RACE_UNDERWORLD),
+        'races' => array(T_RACE_SKAVEN, T_RACE_UNDERWORLD)
     ),
     'Lucien Swift (+ Valen Swift)' => array (
         'id'    => -67,
@@ -2431,7 +2431,7 @@ $stars = array(
         'def'   => array (99, 1, 54, 13),
         'cost'  => 390000,
         'icon'  => 'star',
-        'races' => array(T_RACE_ELF, T_RACE_HIGH_ELF, T_RACE_WOOD_ELF),
+        'races' => array(T_RACE_ELF, T_RACE_HIGH_ELF, T_RACE_WOOD_ELF)
     ),
     'Valen Swift (included with Lucien Swift)' => array (
         'id'    => -68,
@@ -2442,7 +2442,7 @@ $stars = array(
         'def'   => array (99, 40, 44, 45, 46, 12),
         'cost'  => 0,
         'icon'  => 'star',
-        'races' => array(T_RACE_ELF, T_RACE_HIGH_ELF, T_RACE_WOOD_ELF),
+        'races' => array(T_RACE_ELF, T_RACE_HIGH_ELF, T_RACE_WOOD_ELF)
     ),
     'Kreek Rustgouger' => array (
         'id'    => -69,
@@ -2453,7 +2453,7 @@ $stars = array(
         'def'   => array (99, 91, 54, 100, 76, 105),
         'cost'  => 130000,
         'icon'  => 'star',
-        'races' => array(T_RACE_SKAVEN, T_RACE_UNDERWORLD),
+        'races' => array(T_RACE_SKAVEN, T_RACE_UNDERWORLD)
     ),
     'Bo Gallante' => array (
         'id'    => -70,
@@ -2464,7 +2464,7 @@ $stars = array(
         'def'   => array (99, 23, 26, 28, 29),
         'cost'  => 160000,
         'icon'  => 'star',
-        'races' => array(T_RACE_HIGH_ELF),
+        'races' => array(T_RACE_HIGH_ELF)
     ),
     'Karla von Kill' => array (
         'id'    => -71,
@@ -2475,7 +2475,7 @@ $stars = array(
         'def'   => array (99, 1, 23, 2, 24),
         'cost'  => 220000,
         'icon'  => 'star',
-        'races' => array(T_RACE_AMAZON, T_RACE_HALFLING, T_RACE_HUMAN, T_RACE_NORSE),
+        'races' => array(T_RACE_AMAZON, T_RACE_HALFLING, T_RACE_HUMAN, T_RACE_NORSE)
     ),
     'Madcap Miggs' => array (
         'id'    => -72,
@@ -2486,7 +2486,7 @@ $stars = array(
         'def'   => array (99, 50, 71, 25, 100, 79, 112),
         'cost'  => 170000,
         'icon'  => 'star',
-        'races' => array(T_RACE_GOBLIN, T_RACE_UNDERWORLD),
+        'races' => array(T_RACE_GOBLIN, T_RACE_UNDERWORLD)
     ),
     'Kari Coldsteel' => array (
         'id'    => -73,
@@ -2497,7 +2497,7 @@ $stars = array(
         'def'   => array (99, 1, 2, 5),
         'cost'  => 50000,
         'icon'  => 'star',
-        'races' => array(T_RACE_AMAZON, T_RACE_DWARF, T_RACE_HUMAN, T_RACE_NORSE),
+        'races' => array(T_RACE_AMAZON, T_RACE_DWARF, T_RACE_HUMAN, T_RACE_NORSE)
     ),
     // Added in BB2016 Spike! #1
     'Withergrasp Doubledrool' => array (
@@ -2509,7 +2509,7 @@ $stars = array(
         'def'   => array (99, 76, 13, 77, 78, 14),
         'cost'  => 170000,
         'icon'  => 'star',
-        'races' => array(T_RACE_CHAOS, T_RACE_CHAOS_PACT, T_RACE_NURGLE),
+        'races' => array(T_RACE_CHAOS, T_RACE_CHAOS_PACT, T_RACE_NURGLE)
     ),
     'Gobbler Grimlich' => array (
         'id'    => -75,
@@ -2520,7 +2520,7 @@ $stars = array(
         'def'   => array (99, 70, 72, 25, 114, 103, 77, 79),
         'cost'  => 230000,
         'icon'  => 'star',
-        'races' => array(T_RACE_CHAOS, T_RACE_CHAOS_PACT, T_RACE_UNDERWORLD),
+        'races' => array(T_RACE_CHAOS, T_RACE_CHAOS_PACT, T_RACE_UNDERWORLD)
     ),
     'Scyla Anfingrimm' => array (
         'id'    => -76,
@@ -2531,7 +2531,7 @@ $stars = array(
         'def'   => array (99, 71, 5, 76, 59, 112),
         'cost'  => 250000,
         'icon'  => 'star',
-        'races' => array(T_RACE_CHAOS, T_RACE_NORSE),
+        'races' => array(T_RACE_CHAOS, T_RACE_NORSE)
     ),
     // Added in BB2016 Spike! #2
     'Asperon Thorn' => array (
@@ -2543,7 +2543,7 @@ $stars = array(
         'def'   => array (99, 42, 7, 45, 46, 12),
         'cost'  => 160000,
         'icon'  => 'star',
-        'races' => array(T_RACE_DARK_ELF, T_RACE_ELF, T_RACE_HIGH_ELF),
+        'races' => array(T_RACE_DARK_ELF, T_RACE_ELF, T_RACE_HIGH_ELF)
 	),
     'Elijah Doom' => array (
         'id'    => -78,
@@ -2554,7 +2554,7 @@ $stars = array(
         'def'   => array (99, 4, 52, 57, 14),
         'cost'  => 190000,
         'icon'  => 'star',
-        'races' => array(T_RACE_DARK_ELF, T_RACE_ELF),
+        'races' => array(T_RACE_DARK_ELF, T_RACE_ELF)
 	),
     'Kiroth Krakeneye' => array (
         'id'    => -79,
@@ -2565,7 +2565,7 @@ $stars = array(
         'def'   => array (99, 72, 74, 8, 13, 77),
         'cost'  => 170000,
         'icon'  => 'star',
-        'races' => array(T_RACE_DARK_ELF, T_RACE_ELF),
+        'races' => array(T_RACE_DARK_ELF, T_RACE_ELF)
 	),
     'Mordrix Hex' => array (
         'id'    => -80,
@@ -2576,7 +2576,7 @@ $stars = array(
         'def'   => array (99, 2, 23, 4, 5, 54),
         'cost'  => 230000,
         'icon'  => 'star',
-        'races' => array(T_RACE_DARK_ELF),
+        'races' => array(T_RACE_DARK_ELF)
 	),
     'Jeremiah Kool' => array (
         'id'    => -81,
@@ -2587,7 +2587,7 @@ $stars = array(
         'def'   => array (99, 1, 23, 21, 41, 7, 44, 45, 26),
         'cost'  => 390000,
         'icon'  => 'star',
-        'races' => array(T_RACE_DARK_ELF),
+        'races' => array(T_RACE_DARK_ELF)
 	),
     // Added in BB2016 Spike! #3
     'Bulla Shardhorn' => array (
@@ -2599,7 +2599,7 @@ $stars = array(
         'def'   => array (99, 1, 73, 74, 75, 101, 103, 106, 78),
         'cost'  => 230000,
         'icon'  => 'star',
-        'races' => array(T_RACE_NURGLE),
+        'races' => array(T_RACE_NURGLE)
 	),
     'Tolly Glocklinger' => array (
         'id'    => -83,
@@ -2610,7 +2610,7 @@ $stars = array(
         'def'   => array (99, 91, 72, 74, 100, 101, 105, 57),
         'cost'  => 110000,
         'icon'  => 'star',
-        'races' => array(T_RACE_NURGLE),
+        'races' => array(T_RACE_NURGLE)
 	),
     // Added in BB2016 Spike! #4
     'G\'Ral Blodschuker' => array (
@@ -2622,7 +2622,7 @@ $stars = array(
         'def'   => array (99, 20, 23, 29, 14),
         'cost'  => 160000,
         'icon'  => 'star',
-        'races' => array(T_RACE_NECROMANTIC, T_RACE_UNDEAD, T_RACE_VAMPIRE),
+        'races' => array(T_RACE_NECROMANTIC, T_RACE_UNDEAD, T_RACE_VAMPIRE)
 	),
     'Bryce \'The Slice\' Cambuel' => array (
         'id'    => -85,
@@ -2633,7 +2633,7 @@ $stars = array(
         'def'   => array (99, 95, 103, 105, 57, 59),
         'cost'  => 130000,
         'icon'  => 'star',
-        'races' => array(T_RACE_UNDEAD, T_RACE_KHEMRI),
+        'races' => array(T_RACE_UNDEAD, T_RACE_KHEMRI)
 	),
     'Ivan \'The Animal\' Deathshroud' => array (
         'id'    => -86,
@@ -2644,7 +2644,7 @@ $stars = array(
         'def'   => array (99, 1, 72, 53, 103, 11, 13),
         'cost'  => 230000,
         'icon'  => 'star',
-        'races' => array(T_RACE_NECROMANTIC, T_RACE_UNDEAD, T_RACE_KHEMRI),
+        'races' => array(T_RACE_NECROMANTIC, T_RACE_UNDEAD, T_RACE_KHEMRI)
 	),
     'Skrull Halfheight' => array (
         'id'    => -87,
@@ -2655,7 +2655,7 @@ $stars = array(
         'def'   => array (99, 40, 44, 45, 103, 12, 59),
         'cost'  => 190000,
         'icon'  => 'star',
-        'races' => array(T_RACE_UNDEAD, T_RACE_KHEMRI),
+        'races' => array(T_RACE_UNDEAD, T_RACE_KHEMRI)
 	),
     '\'Rotten\' Rick Bupkeis' => array (
         'id'    => -88,
@@ -2666,7 +2666,7 @@ $stars = array(
         'def'   => array (99, 3, 103, 27),
         'cost'  => 110000,
         'icon'  => 'star',
-        'races' => array(T_RACE_NECROMANTIC, T_RACE_UNDEAD),
+        'races' => array(T_RACE_NECROMANTIC, T_RACE_UNDEAD)
 	),
     'Throttlesnot \'The Implaer\'' => array (
         'id'    => -89,
@@ -2677,7 +2677,7 @@ $stars = array(
         'def'   => array (99, 3, 23, 25, 103, 105, 106, 108),
         'cost'  => 100000,
         'icon'  => 'star',
-        'races' => array(T_RACE_NECROMANTIC, T_RACE_UNDEAD),
+        'races' => array(T_RACE_NECROMANTIC, T_RACE_UNDEAD)
 	),
     'Gretchen Wachter \'The Blood Bowl Widow\'' => array (
         'id'    => -90,
@@ -2688,7 +2688,7 @@ $stars = array(
         'def'   => array (99, 72, 23, 74, 24, 100, 103, 10, 26),
         'cost'  => 280000,
         'icon'  => 'star',
-        'races' => array(T_RACE_NECROMANTIC, T_RACE_UNDEAD, T_RACE_VAMPIRE),
+        'races' => array(T_RACE_NECROMANTIC, T_RACE_UNDEAD, T_RACE_VAMPIRE)
 	),
     // Added in BB2016 Spike! #5
     'Neddley Verruca' => array (
@@ -2700,7 +2700,7 @@ $stars = array(
         'def'   => array (99, 23, 105, 106, 108, 25, 79),
         'cost'  => 70000,
         'icon'  => 'star',
-        'races' => array(T_RACE_HALFLING),
+        'races' => array(T_RACE_HALFLING)
 	),
     'Cindy Pewhistle' => array (
         'id'    => -92,
@@ -2711,7 +2711,7 @@ $stars = array(
         'def'   => array (99, 40, 93, 23, 105, 108),
         'cost'  => 50000,
         'icon'  => 'star',
-        'races' => array(T_RACE_HALFLING),
+        'races' => array(T_RACE_HALFLING)
 	),
     'Rumbelow Sheepskin' => array (
         'id'    => -93,
@@ -2722,7 +2722,7 @@ $stars = array(
         'def'   => array (99, 1, 75, 53, 100, 13, 59),
         'cost'  => 170000,
         'icon'  => 'star',
-        'races' => array(T_RACE_HALFLING),
+        'races' => array(T_RACE_HALFLING)
 	),
     'Big Jobo Hairyfoot' => array (
         'id'    => -94,
@@ -2733,7 +2733,7 @@ $stars = array(
         'def'   => array (99, 3, 108, 13, 59, 14),
         'cost'  => 120000,
         'icon'  => 'star',
-        'races' => array(T_RACE_HALFLING, T_RACE_OGRE),
+        'races' => array(T_RACE_HALFLING, T_RACE_OGRE)
 	),
     'Captain Colander' => array (
         'id'    => -95,
@@ -2744,7 +2744,7 @@ $stars = array(
         'def'   => array (99, 20, 72, 23, 4, 24, 103, 104, 108, 26),
         'cost'  => 100000,
         'icon'  => 'star',
-        'races' => array(T_RACE_HALFLING),
+        'races' => array(T_RACE_HALFLING)
 	),
     // Added in BB2016 Spike! #6
     'Gloriel Summerbloom' => array (
@@ -2756,7 +2756,7 @@ $stars = array(
         'def'   => array (99, 40, 23, 45, 26, 12),
         'cost'  => 160000,
         'icon'  => 'star',
-        'races' => array(T_RACE_WOOD_ELF),
+        'races' => array(T_RACE_WOOD_ELF)
 	),
     'Swiftvine Glimmershard' => array (
         'id'    => -97,
@@ -2767,7 +2767,7 @@ $stars = array(
         'def'   => array (99, 72, 4, 26, 106, 108),
         'cost'  => 130000,
         'icon'  => 'star',
-        'races' => array(T_RACE_WOOD_ELF),
+        'races' => array(T_RACE_WOOD_ELF)
 	),
     'Maple Highgrove' => array (
         'id'    => -98,
@@ -2778,7 +2778,7 @@ $stars = array(
         'def'   => array (99, 51, 54, 57, 77, 59),
         'cost'  => 300000,
         'icon'  => 'star',
-        'races' => array(T_RACE_WOOD_ELF),
+        'races' => array(T_RACE_WOOD_ELF)
 	),
     'Zolcath the Zoat' => array (
         'id'    => -99,
@@ -2789,7 +2789,7 @@ $stars = array(
         'def'   => array (99, 72, 53, 54, 76, 103, 29),
         'cost'  => 280000,
         'icon'  => 'star',
-        'races' => array(T_RACE_AMAZON, T_RACE_LIZARDMAN, T_RACE_WOOD_ELF),
+        'races' => array(T_RACE_AMAZON, T_RACE_LIZARDMAN, T_RACE_WOOD_ELF)
 	),
     'Curnoth Darkwold' => array (
         'id'    => -100,
@@ -2800,7 +2800,7 @@ $stars = array(
         'def'   => array (99, 23, 5, 24, 25, 14),
         'cost'  => 240000,
         'icon'  => 'star',
-        'races' => array(T_RACE_WOOD_ELF),
+        'races' => array(T_RACE_WOOD_ELF)
 	),
     // Added in BB2016 Spike! #7
     'Anqi Panqi' => array (
@@ -2812,7 +2812,7 @@ $stars = array(
         'def'   => array (99, 1, 51, 57),
         'cost'  => 210000,
         'icon'  => 'star',
-        'races' => array(T_RACE_LIZARDMAN),
+        'races' => array(T_RACE_LIZARDMAN)
 	),
     'Drull (+Dribl)' => array (
         'id'    => -102,
@@ -2823,7 +2823,7 @@ $stars = array(
         'def'   => array (99, 23, 26, 106, 108),
         'cost'  => 190000,
         'icon'  => 'star',
-        'races' => array(T_RACE_LIZARDMAN),
+        'races' => array(T_RACE_LIZARDMAN)
 	),
     'Dribl (included with Drull)' => array (
         'id'    => -103,
@@ -2834,7 +2834,7 @@ $stars = array(
         'def'   => array (99, 3, 23, 26, 27, 108),
         'cost'  => 0,
         'icon'  => 'star',
-        'races' => array(T_RACE_LIZARDMAN),
+        'races' => array(T_RACE_LIZARDMAN)
 	),
     'Glotl Stop' => array (
         'id'    => -104,
@@ -2845,7 +2845,7 @@ $stars = array(
         'def'   => array (99, 5, 54, 56, 76, 59, 112),
         'cost'  => 360000,
         'icon'  => 'star',
-        'races' => array(T_RACE_LIZARDMAN, T_RACE_AMAZON),
+        'races' => array(T_RACE_LIZARDMAN, T_RACE_AMAZON)
 	),
 );
 /*  Paired Stars  ***************************************************************************************** */
