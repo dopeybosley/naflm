@@ -12,7 +12,7 @@ $settings['lang']            = 'en-GB';
  *   General
  *********************/
 // Change the Title after the = sign.  Do not change things before the = sign.
-$settings['banner_subtitle'] = 'New here?  Visit theNAF.net/Leagues for more information';
+$settings['banner_subtitle'] = '   ';
 // Button text for league URL.
 $settings['league_url_name'] = 'League Forum'; 
 // Stylesheet for text etc. Currently stylesheet 1 is the only existing stylesheet, so don't change it!  
