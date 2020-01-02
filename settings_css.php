@@ -6,4 +6,5 @@ $settings['core_theme_names'] = array(
     '2' => 'AUSBOWL',
     '4' => 'OBBLM Modified',
     '5' => 'CHOP!',
+    '9' => 'Rygas Roughnecks',
 );
