@@ -886,6 +886,10 @@ class HTMLOUT
 					ko.applyBindings(new PageViewModel(leaguesJson));
 				});
 			</script>
+			<!-- Attempt to add an icon! -->
+			<link rel="bookmark" href="images/rygas/bb.ico">
+			<link rel="shortcut icon" href="images/rygas/bb.ico">
+
 		</head>
 		<body>
 			<div class="everything">
