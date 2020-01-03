@@ -74,7 +74,3 @@ $hrs[5]['rule']   = array('-pts', '-sdiff', '-tcdiff');    // Sort teams against
 $hrs[5]['points'] = '3*[won] + 1*[draw] + 0*[lost]'; // The definition of points.
 
 // Add you own rules here...
-
-// Rule #6 - Rygas Cup
-$hrs[6]['rule']   = array('-pts', '-sdiff', '-tdcas', '-gf', '-win_pct'); // Note that tdcas may be inaccurate; ideally "gftcasf" needed.
-$hrs[6]['points'] = '30*[won] + 14*[draw] + 6*[lost] + 1*[gf] - 1*[ga] + 1*[tcasf] - 1*[smp]'; // Rygas Cup points definition; smp hijacked to account manually for points otherwise greater than the max (36).  Note also there is no current way to sort by "head-to-head record". 
